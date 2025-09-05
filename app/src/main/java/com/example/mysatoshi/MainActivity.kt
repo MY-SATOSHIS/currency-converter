@@ -52,7 +52,7 @@ object Strings {
             "result" to "Result",
             "settings" to "Settings",
             "about" to "About",
-            "footer" to "BTC SHULE © My Satoshis v2.0, 2025",
+            "footer" to "Copyrights © My Satoshis v2.0, 2025",
             "conversion_settings" to "Conversion Settings",
             "taux" to "USD/BIF Rate",
             "prix" to "BTC Price in USD",
