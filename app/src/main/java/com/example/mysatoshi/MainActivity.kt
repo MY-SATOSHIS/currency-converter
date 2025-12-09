@@ -58,7 +58,7 @@ object Strings {
             "prix" to "BTC Price in USD",
             "langue" to "Language",
             "retour" to "Back",
-            "about_content" to "Digital converter BTC, SATS, USD, BIF\nDeveloped in Gitega, 2025\nBTC SHULE"
+            "about_content" to "Digital converter BTC, SATS, USD, BIF\nDeveloped in Gitega, 2025\nMy Satoshis"
         ),
         "rn" to mapOf(
             "title" to "UKUVUNJA AMAFARANGA",
@@ -66,13 +66,13 @@ object Strings {
             "result" to "Atanga",
             "settings" to "Ibiciro",
             "about" to "Ikoreshwa",
-            "footer" to "BTC SHULE © My Satoshis v2.0, 2025",
+            "footer" to "Copyrights © My Satoshis v2.0, 2025",
             "conversion_settings" to "IHINDURWA RY'IBICIRO",
             "taux" to "Ikiguzi ca USD muma BIF",
             "prix" to "Ikiguzi ca BTC muma USD",
             "langue" to "Ururimi",
             "retour" to "Subira inyuma",
-            "about_content" to "Ivunjwa ry'amafaranga \nn'ihindagurika ry'ibiciro BTC, SATS, USD, BIF\nYakorewe i Gitega, 2025\nBTC SHULE"
+            "about_content" to "Ivunjwa ry'amafaranga \nn'ihindagurika ry'ibiciro BTC, SATS, USD, BIF\nYakorewe i Gitega, 2025\nMy satoshis"
         ),
         "sw" to mapOf(
             "title" to "KUGEUZA FEDHA",
@@ -80,13 +80,13 @@ object Strings {
             "result" to "Matokeo",
             "settings" to "Mipangilio",
             "about" to "Kuhusu",
-            "footer" to "BTC SHULE © My Satoshis v2.0, 2025",
+            "footer" to "Copyrights © My Satoshis v2.0, 2025",
             "conversion_settings" to "Mipangilio ya Kugeuza",
             "taux" to "Kiwango cha USD/BIF",
             "prix" to "Bei ya BTC kwa USD",
             "langue" to "Lugha",
             "retour" to "Rudi",
-            "about_content" to "Kigeuza fedha BTC, SATS, USD, BIF\nKimeandaliwa Gitega, 2025\nBTC SHULE"
+            "about_content" to "Kigeuza fedha BTC, SATS, USD, BIF\nKimeandaliwa Gitega, 2025\nMy Satoshis"
         )
     )
 
