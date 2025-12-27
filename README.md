@@ -19,7 +19,7 @@ My Satoshis est une application Android conçue pour faciliter la conversion ent
 
 ## Installation
 1.	Clonez le dépôt : 
-git clone https://github.com/Advaxe/MySatoshis.git
+git clone https://github.com/MY-SATOSHIS/currency-converter
 2.	Ouvrez le projet dans Android Studio.
 3.	Synchronisez votre projet avec Gradle.
 4.	Exécutez l'application sur un appareil ou un émulateur Android.
